@@ -21,7 +21,8 @@ To run this app in your device:
 
 # App Interfaces
 
-![Vision World Interfaces](Vision World Interfaces.PNG)
+![image](https://user-images.githubusercontent.com/86565005/169647924-4a0595e4-8e4e-407f-842e-5df01df8792f.png)
+
 
 
 
