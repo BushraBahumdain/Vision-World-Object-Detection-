@@ -15,7 +15,7 @@ The user needs to point the camera to the wanted object then the system will rec
 To run this app in your device:
 1) add ssd_mobilenet_v1_1_metadata_1.tflite and labelmap files to your project.
 2) download the OpenCV library to connect the camera.
-3) add the classes that is inside the Project_CLasses file your project.
+3) add the classes that is inside the Project_Classes file your project.
 4) run the app.
 
 
